@@ -196,8 +196,8 @@ _YC     ; Smart cusp displays       ["=YC" is smart, "_YC" is normal   ]
 -YkO 76 83  Pla Pla Pla Pla Pla Pla Pla Pla                  ; Moons
 -YkO 84 84  Sta                                              ; Fixed stars
 
--YkA 1 5    Red Red Blu Red Gre          ; Major aspect colors
--YkA 6 11   Mag DkG Pur Mar Cya DkC      ; Minor aspect colors
+-YkA 1 5    Yel Mar Red Blu Gre          ; Major aspect colors
+-YkA 6 11   Ora DkG Pur Mar DkB DkC      ; Minor aspect colors
 -YkA 12 18  DkC Mar Pur Pur Mar Mar Pur  ; Obscure aspect colors
 
 -YkC        Red Yel Gre Blu                      ; Element colors
