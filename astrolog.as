@@ -63,8 +63,8 @@ _Yr     ; Show rounded positions    ["=Yr" rounds, "_Yr" doesn't       ]
 ; 84-133: Fixed stars
 
 -YR 0 10     1 0 0 0 0 0 0 0 0 0 0    ; Planets
--YR 11 21    1 1 1 1 1 0 1 1 1 1 1    ; Minor planets
--YR 22 33    0 1 1 1 1 1 1 1 1 0 1 1  ; House cusps
+-YR 11 21    0 0 0 0 0 0 0 0 0 0 1    ; Minor planets
+-YR 22 33    0 1 1 0 1 1 0 1 1 0 1 1  ; House cusps
 -YR 34 42    1 1 1 1 1 1 1 1 1        ; Uranians
 -YR 43 51    1 1 1 1 1 1 1 1 1        ; Dwarfs
 -YR 52 78    1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  ; Moons
@@ -75,7 +75,7 @@ _Yr     ; Show rounded positions    ["=Yr" rounds, "_Yr" doesn't       ]
 ; DEFAULT TRANSIT RESTRICTIONS:
 
 -YRT 0 10    1 0 1 0 0 0 0 0 0 0 0    ; Planets
--YRT 11 21   1 1 1 1 1 0 1 1 1 1 1    ; Minor planets
+-YRT 11 21   0 1 1 1 1 0 0 1 1 1 1    ; Minor planets
 -YRT 22 33   1 1 1 1 1 1 1 1 1 1 1 1  ; House cusps
 -YRT 34 42   1 1 1 1 1 1 1 1 1        ; Uranians
 -YRT 43 51   1 1 1 1 1 1 1 1 1        ; Dwarfs
