@@ -196,10 +196,11 @@
 ** specified within the default settings file or in the program itself.
 */
 
-#define DEFAULT_SYSTEM 0
+#define DEFAULT_SYSTEM 14
   // Normally, Placidus houses are used (unless the user specifies otherwise).
   // If you want a different default system, change this number to a value
   // from 0-21 (values same as in -c switch).
+  // use 14 = Whole.
 
 #define DEFAULT_ASPECTS 5
   // Default number of aspects to include in charts.
