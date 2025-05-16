@@ -105,9 +105,9 @@ _Yr     ; Show rounded positions    ["=Yr" rounds, "_Yr" doesn't       ]
 
 ; DEFAULT MAX PLANET ASPECT ORBS:
 
--YAm 0 10    360 360 360 360 360 360 360 360 360 360 360      ; Planets
--YAm 11 21   360 360 360 360 360   2   2   2 360 360   2      ; Minor planets
--YAm 22 33   360 360 360 360 360 360 360 360 360 360 360 360  ; Cusp objects
+-YAm 0 10    360 360 360 360 360 360 360 360 3 3 3      ; Planets
+-YAm 11 21   2   2   2   2   2   2   2   2   2 2 2      ; Minor planets
+-YAm 22 33   2   2   2   2   2   2   2   2   2 2 2 2    ; Cusp objects
 -YAm 34 42   360 360 360 360 360 360 360 360 360              ; Uranians
 -YAm 43 51   360 360 360 360 360 360 360 360 360              ; Dwarfs
 -YAm 84 84     2                                              ; Fixed stars
