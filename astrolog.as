@@ -187,7 +187,8 @@ _YC     ; Smart cusp displays       ["=YC" is smart, "_YC" is normal   ]
 ; Magenta, Maroon, DkGreen, DkCyan, DkBlue; Element, Ray, Star, Planet
 
 -YkO 0 10   Yel Ele Ele Ele Ele Ele Ele Ele Ele Ele Ele      ; Planet colors
--YkO 11 21  Mag Mag Mag Mag Mag DkC DkC DkC DkC DkC DkC      ; Minor colors
+; 11-21: Chi Cer Pal Jun Ves Nor Sou Lil For Ver EP
+-YkO 11 21  Cya Mag Mag Mag Mag Gra Gra Gra DkC DkC DkC      ; Minor colors
 -YkO 22 33  Ele Ele Ele Ele Ele Ele Ele Ele Ele Ele Ele Ele  ; Cusp colors
 -YkO 34 42  Pur Pur Pur Pur Pur Pur Pur Pur Pur              ; Uranian colors
 -YkO 43 51  Mag Mag Pur Pur Pur Pur Pur Pur Pur              ; Dwarf colors
