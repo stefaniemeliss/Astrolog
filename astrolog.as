@@ -66,7 +66,7 @@ _YC     ; Smart cusp displays       ["=YC" is smart, "_YC" is normal   ]
 -YR 11 21    0 0 0 0 0 0 0 0 0 0 1    ; Minor planets
 -YR 22 33    0 1 1 0 1 1 0 1 1 0 1 1  ; House cusps
 -YR 34 42    1 1 1 1 1 1 1 1 1        ; Uranians
--YR 43 51    1 1 1 1 1 1 1 1 1        ; Dwarfs
+-YR 43 51    1 1 0 1 1 1 1 1 1        ; Dwarfs
 -YR 52 78    1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  ; Moons
 -YR 79 83    1 1 1 1 1                ; Centers of Body
 -YR 84 108   1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  ; Fixed stars
@@ -109,7 +109,7 @@ _YC     ; Smart cusp displays       ["=YC" is smart, "_YC" is normal   ]
 -YAm 11 21   2   2   2   2   2   2   2   2   2 2 2      ; Minor planets
 -YAm 22 33   2   2   2   2   2   2   2   2   2 2 2 2    ; Cusp objects
 -YAm 34 42   360 360 360 360 360 360 360 360 360              ; Uranians
--YAm 43 51   360 360 360 360 360 360 360 360 360              ; Dwarfs
+-YAm 43 51   360 360 2   360 360 360 360 360 360              ; Dwarfs
 -YAm 84 84     2                                              ; Fixed stars
 
 ; DEFAULT PLANET ASPECT ORB ADDITIONS:
