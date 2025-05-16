@@ -98,8 +98,8 @@ _Yv     ; European length units     ["_Yv" is imperial, "=Yv" is metric]
 ; 12-18: SQn Sep Nov BNv BSp TSp QNv
 ; 19-24: TDc Un1 Un2 Un3 Un4 Un5
 
--YAo 1 5     7 7 7 7 6      ; Major aspects
--YAo 6 11    3 3 3 3 2 2    ; Minor aspects
+-YAo 1 5     7 7 6 6 4      ; Major aspects
+-YAo 6 11    2 1.5 1.5 1.5 1 1    ; Minor aspects
 -YAo 12 18   1 1 1 1 1 1 1  ; Obscure aspects
 -YAo 19 24   0.5 0.5 0.5 0.5 0.5 0.5  ; Very obscure aspects
 
